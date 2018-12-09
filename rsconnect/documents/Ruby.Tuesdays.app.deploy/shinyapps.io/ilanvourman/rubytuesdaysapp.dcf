@@ -1,0 +1,12 @@
+name: rubytuesdaysapp
+title:
+username:
+account: ilanvourman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 216327
+bundleId: 987134
+url: https://ilanvourman.shinyapps.io/rubytuesdaysapp/
+when: 1505787551.57878
+asMultiple: FALSE
+asStatic: FALSE

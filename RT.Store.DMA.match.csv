@@ -1,0 +1,509 @@
+House Code,ZIP.Code,PO_NAME,ST_ABBRV,CTY_S_NAME,DMA_LONG_NAME,Latitude,Longitude,Num.of.Stores.within.10.miles
+2106,33948,Port Charlotte,FL,Charlotte County,"Ft. Myers-Naples, FL",27.00914953,-82.14766024,1
+2163,80002,Arvada,CO,Jefferson County,"Denver, CO",39.7966118,-105.078331,1
+4368,20874,Germantown,MD,Montgomery County,"Washington, DC (Hagerstown, MD)",39.1810188,-77.2681808,2
+3644,20877,Gaithersburg,MD,Montgomery County,"Washington, DC (Hagerstown, MD)",39.1526279,-77.20427748,2
+3653,22041,Falls Church,VA,Fairfax County,"Washington, DC (Hagerstown, MD)",38.85211048,-77.13185368,3
+4181,22209,Arlington,VA,Arlington County,"Washington, DC (Hagerstown, MD)",38.89481254,-77.07295168,3
+4169,22306,Alexandria,VA,Fairfax County,"Washington, DC (Hagerstown, MD)",38.75022271,-77.08427267,3
+3661,14219,Buffalo,NY,Erie County,"Buffalo, NY",42.7915611,-78.8117905,2
+5180,14225,Buffalo,NY,Erie County,"Buffalo, NY",42.90711729,-78.77630549,2
+5185,37217,Nashville,TN,Davidson County,"Nashville, TN",36.086319,-86.6476212,2
+3663,37214,Nashville,TN,Davidson County,"Nashville, TN",36.14789632,-86.66658606,2
+3670,17601,Lancaster,PA,Lancaster County,"Harrisburg-Lancaster-Lebanon-York, PA",40.07571081,-76.32460362,3
+4558,17602,Lancaster,PA,Lancaster County,"Harrisburg-Lancaster-Lebanon-York, PA",40.02254513,-76.19417425,3
+5209,17603,Lancaster,PA,Lancaster County,"Harrisburg-Lancaster-Lebanon-York, PA",40.0271376,-76.32617603,3
+3682,29407,Charleston,SC,Charleston County,"Charleston, SC",32.78913119,-80.02822293,1
+3693,22554,Stafford,VA,Stafford County,"Washington, DC (Hagerstown, MD)",38.4604988,-77.405098,2
+4744,22026,Dumfries,VA,Prince William County,"Washington, DC (Hagerstown, MD)",38.58029012,-77.31197695,2
+3698,21740,Hagerstown,MD,Washington County,"Washington, DC (Hagerstown, MD)",39.63078,-77.761192,1
+3700,37388,Tullahoma,TN,Coffee County,"Nashville, TN",35.3859298,-86.23280218,1
+3724,28546,Jacksonville,NC,Onslow County,"Greenville-New Bern-Washington, NC",34.7787895,-77.3954468,1
+2164,81008,Pueblo,CO,Pueblo County,"Colorado Springs-Pueblo, CO",38.3118896,-104.6139069,1
+3743,36330,Enterprise,AL,Coffee County,"Dothan, AL",31.31975461,-85.83134203,1
+3758,21157,Westminster,MD,Carroll County,"Baltimore, MD",39.5653114,-76.9740829,1
+4446,43065,Powell,OH,Delaware County,"Columbus, OH",40.164105,-83.020454,2
+3765,43235,Columbus,OH,Franklin County,"Columbus, OH",40.09638168,-83.08970725,2
+3776,36202,Anniston,AL,Calhoun County,"Birmingham (Anniston and Tuscaloosa), AL",33.6377983,-85.8262482,1
+3777,6484,Shelton,CT,Fairfield County,"New York, NY",41.2703408,-73.12867008,1
+3783,32578,Niceville,FL,Okaloosa County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.5207691,-86.4896164,1
+4378,27409,Greensboro,NC,Guilford County,"Greensboro-High Point-Winston Salem, NC",36.07587014,-79.95948895,2
+3839,27407,Greensboro,NC,Guilford County,"Greensboro-High Point-Winston Salem, NC",36.0582504,-79.8884125,2
+3916,14845,Horseheads,NY,Chemung County,"Elmira (Corning), NY",42.15953604,-76.87646267,1
+3922,38401,Columbia,TN,Maury County,"Nashville, TN",35.5974808,-87.0592422,1
+3933,31707,Albany,GA,Dougherty County,"Albany, GA",31.61696378,-84.22149609,1
+2166,80014,Aurora,CO,Arapahoe County,"Denver, CO",39.6742897,-104.8231583,1
+3940,10036,New York,NY,New York County,"New York, NY",40.7555046,-73.9871292,1
+3952,2818,East Greenwich,RI,Kent County,"Providence-New Bedford, RI-MA",41.66246511,-71.49645627,1
+4673,18104,Allentown,PA,Lehigh County,"Philadelphia, PA",40.59332546,-75.54431449,2
+3960,18052,Whitehall,PA,Lehigh County,"Philadelphia, PA",40.6304732,-75.48043676,2
+4976,21029,Clarksville,MD,Howard County,"Baltimore, MD",39.21125902,-76.93735495,1
+3974,31909,Columbus,GA,Muscogee County,"Columbus, GA (Opelika, AL)",32.5091925,-84.94045717,1
+3993,29803,Aiken,SC,Aiken County,"Augusta-Aiken, GA-SC",33.51242913,-81.71421694,1
+4069,29118,Orangeburg,SC,Orangeburg County,"Columbia, SC",33.5555916,-80.8247299,1
+4111,23188,Williamsburg,VA,James City County,"Norfolk-Portsmouth-Newport News, VA",37.2710304,-76.7565002,1
+4129,19047,Langhorne,PA,Bucks County,"Philadelphia, PA",40.17069895,-74.89334964,1
+4131,25504,Barboursville,WV,Cabell County,"Charleston-Huntington, WV",38.4220794,-82.26539876,1
+2193,32763,Orange City,FL,Volusia County,"Orlando-Daytona Beach-Melbourne, FL",28.9105797,-81.2783585,1
+4380,7083,Union,NJ,Union County,"New York, NY",40.6901737,-74.29845695,2
+4142,7201,Elizabeth,NJ,Union County,"New York, NY",40.66229844,-74.1754515,2
+4144,20735,Clinton,MD,Prince George's County,"Washington, DC (Hagerstown, MD)",38.76994158,-76.88681252,1
+4154,38834,Corinth,MS,Alcorn County,"Memphis, TN",34.93168396,-88.54604812,1
+4160,29902,Beaufort,SC,Beaufort County,"Savannah, GA",32.42452983,-80.73188564,1
+4163,3063,Nashua,NH,Hillsborough County,"Boston (Manchester), MA-NH",42.7789536,-71.497551,1
+4165,21601,Easton,MD,Talbot County,"Baltimore, MD",38.7872391,-76.0772705,1
+4170,21502,Cumberland,MD,Allegany County,"Washington, DC (Hagerstown, MD)",39.6362801,-78.8372726,1
+4183,26301,Clarksburg,WV,Harrison County,"Clarksburg-Weston, WV",39.26815621,-80.28647863,1
+4194,17402,York,PA,York County,"Harrisburg-Lancaster-Lebanon-York, PA",39.92993618,-76.6927524,1
+4613,8873,Somerset,NJ,Somerset County,"New York, NY",40.53449676,-74.52532794,2
+4197,8807,Bridgewater,NJ,Somerset County,"New York, NY",40.57406371,-74.66625877,2
+7382,55379,Shakopee,MN,Scott County,"Minneapolis-St. Paul, MN",44.77997876,-93.46825494,2
+2197,55435,Minneapolis,MN,Hennepin County,"Minneapolis-St. Paul, MN",44.88044846,-93.3263025,2
+4202,35769,Scottsboro,AL,Jackson County,"Huntsville-Decatur (Florence), AL",34.6620827,-86.0142593,1
+4205,27577,Smithfield,NC,Johnston County,"Raleigh-Durham (Fayetteville), NC",35.5058098,-78.3244629,1
+4214,29631,Clemson,SC,Pickens County,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",34.6918983,-82.8459625,1
+4224,30214,Fayetteville,GA,Fayette County,"Atlanta, GA",33.4802704,-84.4356918,2
+5171,30228,Hampton,GA,Henry County,"Atlanta, GA",33.4434204,-84.3234711,2
+4225,24382,Wytheville,VA,Wythe County,"Roanoke-Lynchburg, VA",36.95845024,-81.09615363,1
+4230,12601,Poughkeepsie,NY,Dutchess County,"New York, NY",41.62520343,-73.92040701,2
+4405,12524,Fishkill,NY,Dutchess County,"New York, NY",41.52639801,-73.89434686,2
+4240,37748,Harriman,TN,Roane County,"Knoxville, TN",35.9121399,-84.5835876,1
+4241,27803,Rocky Mount,NC,Nash County,"Raleigh-Durham (Fayetteville), NC",35.97931074,-77.80846991,1
+4243,8540,Princeton,NJ,Mercer County,"Philadelphia, PA",40.3405495,-74.6272659,1
+4888,37701,Alcoa,TN,Blount County,"Knoxville, TN",35.81159516,-83.98316874,2
+4246,37701,Alcoa,TN,Blount County,"Knoxville, TN",35.8059998,-83.9867859,2
+2199,55113,Saint Paul,MN,Ramsey County,"Minneapolis-St. Paul, MN",45.01328459,-93.17363912,1
+4251,30263,Newnan,GA,Coweta County,"Atlanta, GA",33.3971481,-84.7424545,1
+4252,17042,Lebanon,PA,Lebanon County,"Harrisburg-Lancaster-Lebanon-York, PA",40.3193512,-76.4239426,1
+4256,29572,Myrtle Beach,SC,Horry County,"Myrtle Beach-Florence, SC",33.79180008,-78.76585765,1
+4260,28315,Aberdeen,NC,Moore County,"Raleigh-Durham (Fayetteville), NC",35.1523209,-79.417572,1
+4904,29579,Myrtle Beach,SC,Horry County,"Myrtle Beach-Florence, SC",33.74953046,-78.95882675,2
+4271,29588,Myrtle Beach,SC,Horry County,"Myrtle Beach-Florence, SC",33.65148003,-78.98440475,2
+4274,31322,Pooler,GA,Chatham County,"Savannah, GA",32.141449,-81.2433929,2
+4407,31419,Savannah,GA,Chatham County,"Savannah, GA",32.0076599,-81.276947,2
+4282,29730,Rock Hill,SC,York County,"Charlotte, NC",34.93952561,-80.96811525,1
+4291,18360,Stroudsburg,PA,Monroe County,"Wilkes Barre-Scranton-Hazleton, PA",40.98922471,-75.21735684,1
+4296,27834,Greenville,NC,Pitt County,"Greenville-New Bern-Washington, NC",35.5676308,-77.4037476,1
+4299,26508,Morgantown,WV,Monongalia County,"Pittsburgh, PA",39.64831493,-79.89685968,1
+2205,33442,Deerfield Beach,FL,Broward County,"Miami-Ft. Lauderdale, FL",26.31835495,-80.1566406,3
+7717,33069,Pompano Beach,FL,Broward County,"Miami-Ft. Lauderdale, FL",26.22704862,-80.15696896,3
+7714,33351,Fort Lauderdale,FL,Broward County,"Miami-Ft. Lauderdale, FL",26.19358167,-80.25426343,3
+4315,45807,Lima,OH,Allen County,"Lima, OH",40.76359538,-84.15019072,1
+4325,30253,McDonough,GA,Henry County,"Atlanta, GA",33.42872395,-84.18082296,1
+4331,72802,Russellville,AR,Pope County,"Little Rock-Pine Bluff, AR",35.30344993,-93.1342706,1
+4356,37771,Lenoir City,TN,Loudon County,"Knoxville, TN",35.8297882,-84.2805099,1
+4358,43725,Cambridge,OH,Guernsey County,"Columbus, OH",40.00305211,-81.57677967,1
+4359,29609,Greenville,SC,Greenville County,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",34.8903008,-82.4046097,2
+4901,29607,Greenville,SC,Greenville County,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",34.831476,-82.30615,2
+4366,45701,Athens,OH,Athens County,"Columbus, OH",39.3362694,-82.0634995,1
+4371,39563,Moss Point,MS,Jackson County,"Biloxi-Gulfport, MS",30.4401313,-88.52695429,1
+5013,45241,Cincinnati,OH,Hamilton County,"Cincinnati, OH",39.27104597,-84.37648243,4
+4454,45236,Cincinnati,OH,Hamilton County,"Cincinnati, OH",39.19878461,-84.37823463,4
+4868,45241,Cincinnati,OH,Hamilton County,"Cincinnati, OH",39.26955796,-84.43878491,4
+4376,45150,Milford,OH,Clermont County,"Cincinnati, OH",39.1614494,-84.2720032,4
+4385,32218,Jacksonville,FL,Duval County,"Jacksonville, FL",30.48240136,-81.65350021,1
+2223,33177,Miami,FL,Miami-Dade County,"Miami-Ft. Lauderdale, FL",25.6275101,-80.3875427,1
+4387,43050,Mount Vernon,OH,Knox County,"Columbus, OH",40.40140328,-82.45136578,1
+4391,19963,Milford,DE,Sussex County,"Salisbury, MD",38.93063307,-75.43156423,1
+4396,29841,North Augusta,SC,Aiken County,"Augusta-Aiken, GA-SC",33.49891012,-81.95943189,2
+5005,30809,Evans,GA,Columbia County,"Augusta-Aiken, GA-SC",33.52477672,-82.11937895,2
+4409,72022,Bryant,AR,Saline County,"Little Rock-Pine Bluff, AR",34.6215096,-92.4943619,1
+4411,15501,Somerset,PA,Somerset County,"Johnstown-Altoona-State College, PA",40.01750406,-79.0783856,1
+4412,32448,Marianna,FL,Jackson County,"Panama City, FL",30.7229309,-85.1846924,1
+4415,25414,Charles Town,WV,Jefferson County,"Washington, DC (Hagerstown, MD)",39.29458547,-77.84242655,1
+4623,44202,Aurora,OH,Portage County,"Cleveland-Akron (Canton), OH",41.3535004,-81.3869705,2
+4423,44241,Streetsboro,OH,Portage County,"Cleveland-Akron (Canton), OH",41.2490196,-81.3629837,2
+4427,35967,Fort Payne,AL,DeKalb County,"Huntsville-Decatur (Florence), AL",34.4388695,-85.7488403,1
+4641,19702,Newark,DE,New Castle County,"Philadelphia, PA",39.63146706,-75.66078462,3
+4429,19808,Wilmington,DE,New Castle County,"Philadelphia, PA",39.7401695,-75.6910095,3
+4743,21921,Elkton,MD,Cecil County,"Baltimore, MD",39.59777061,-75.81857957,3
+2228,11590,Westbury,NY,Nassau County,"New York, NY",40.74517676,-73.60140012,1
+4431,6351,Jewett City,CT,New London County,"Hartford & New Haven, CT",41.5874868,-71.99085722,1
+4437,27896,Wilson,NC,Wilson County,"Raleigh-Durham (Fayetteville), NC",35.73841405,-77.95702748,1
+4442,19709,Middletown,DE,New Castle County,"Philadelphia, PA",39.4487915,-75.7264786,1
+4443,32092,Saint Augustine,FL,St. Johns County,"Jacksonville, FL",29.91585367,-81.41316129,1
+4445,25801,Beckley,WV,Raleigh County,"Bluefield-Beckley-Oak Hill, WV",37.79568474,-81.21765366,1
+4447,8691,Trenton,NJ,Mercer County,"Philadelphia, PA",40.19626735,-74.63804496,1
+4449,15401,Uniontown,PA,Fayette County,"Pittsburgh, PA",39.90755984,-79.75513266,1
+4455,6002,Bloomfield,CT,Hartford County,"Hartford & New Haven, CT",41.81715578,-72.7393363,2
+4675,6096,Windsor Locks,CT,Hartford County,"Hartford & New Haven, CT",41.9206009,-72.6701965,2
+4458,32003,Fleming Island,FL,Clay County,"Jacksonville, FL",30.1017094,-81.7094727,1
+4459,72401,Jonesboro,AR,Craighead County,"Jonesboro, AR",35.8078003,-90.6725769,1
+2232,11763,Medford,NY,Suffolk County,"New York, NY",40.80765885,-72.95434158,1
+4462,15801,Du Bois,PA,Clearfield County,"Johnstown-Altoona-State College, PA",41.12204471,-78.72903677,1
+4467,29488,Walterboro,SC,Colleton County,"Charleston, SC",32.8796196,-80.7137451,1
+4470,44131,Independence,OH,Cuyahoga County,"Cleveland-Akron (Canton), OH",41.3664894,-81.6838837,1
+4472,35055,Cullman,AL,Cullman County,"Birmingham (Anniston and Tuscaloosa), AL",34.20809119,-86.87631405,1
+4475,37087,Lebanon,TN,Wilson County,"Nashville, TN",36.2144203,-86.3238602,1
+4913,28027,Concord,NC,Cabarrus County,"Charlotte, NC",35.36674671,-80.71125266,2
+4478,28083,Kannapolis,NC,Cabarrus County,"Charlotte, NC",35.46483434,-80.58903247,2
+4479,28403,Wilmington,NC,New Hanover County,"Wilmington, NC",34.21473415,-77.90565269,3
+5128,28412,Wilmington,NC,New Hanover County,"Wilmington, NC",34.14466917,-77.89318472,3
+5125,28405,Wilmington,NC,New Hanover County,"Wilmington, NC",34.23494037,-77.82917249,3
+4495,32526,Pensacola,FL,Escambia County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.5192171,-87.31274358,1
+4502,41101,Ashland,KY,Boyd County,"Charleston-Huntington, WV",38.4867096,-82.6538467,1
+4504,22701,Culpeper,VA,Culpeper County,"Washington, DC (Hagerstown, MD)",38.48302908,-77.97404931,1
+2108,34108,Naples,FL,Collier County,"Ft. Myers-Naples, FL",26.2478771,-81.8013611,1
+2251,64153,Kansas City,MO,Platte County,"Kansas City, MO-KS",39.27160802,-94.67079295,2
+7277,64116,Kansas City,MO,Clay County,"Kansas City, MO-KS",39.1498489,-94.5801163,2
+4513,3301,Concord,NH,Merrimack County,"Boston (Manchester), MA-NH",43.22907996,-71.48277624,1
+4514,28645,Lenoir,NC,Caldwell County,"Charlotte, NC",35.9206505,-81.5257416,1
+4519,44070,North Olmsted,OH,Cuyahoga County,"Cleveland-Akron (Canton), OH",41.4185104,-81.9185104,1
+4520,40299,Louisville,KY,Jefferson County,"Louisville, KY",38.21749385,-85.53861319,1
+4522,30052,Loganville,GA,Walton County,"Atlanta, GA",33.84408952,-83.90962935,1
+4523,6256,North Windham,CT,Windham County,"Hartford & New Haven, CT",41.7408524,-72.1767807,1
+4528,36507,Bay Minette,AL,Baldwin County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.88604802,-87.78821603,1
+4551,3801,Portsmouth,NH,Rockingham County,"Boston (Manchester), MA-NH",43.089005,-70.79141692,1
+4554,32571,Milton,FL,Santa Rosa County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.60319028,-87.11862866,1
+4555,28328,Clinton,NC,Sampson County,"Raleigh-Durham (Fayetteville), NC",34.9933395,-78.3432465,1
+2292,33647,Tampa,FL,Hillsborough County,"Tampa-St.Petersburg (Sarasota), FL",28.1294708,-82.3679428,1
+4557,37604,Johnson City,TN,Washington County,"Tri-Cities, TN-VA",36.3040504,-82.3731308,1
+4559,39208,Pearl,MS,Rankin County,"Jackson, MS",32.2681999,-90.1343002,1
+4565,23435,Suffolk,VA,Suffolk city,"Norfolk-Portsmouth-Newport News, VA",36.8808784,-76.4259872,1
+4601,27526,Fuquay Varina,NC,Wake County,"Raleigh-Durham (Fayetteville), NC",35.59162044,-78.78101717,1
+4603,32563,Gulf Breeze,FL,Santa Rosa County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.38983085,-87.06448786,1
+4608,24450,Lexington,VA,Rockbridge County,"Roanoke-Lynchburg, VA",37.80183904,-79.41165953,1
+4610,39120,Natchez,MS,Adams County,"Jackson, MS",31.52834347,-91.38889946,1
+4612,27330,Sanford,NC,Lee County,"Raleigh-Durham (Fayetteville), NC",35.4476624,-79.1309891,1
+4616,37876,Sevierville,TN,Sevier County,"Knoxville, TN",35.8780785,-83.5730591,1
+4618,16101,New Castle,PA,Lawrence County,"Pittsburgh, PA",41.01218759,-80.39642528,1
+2293,64136,Kansas City,MO,Jackson County,"Kansas City, MO-KS",39.03539267,-94.41479751,1
+4619,36830,Auburn,AL,Lee County,"Columbus, GA (Opelika, AL)",32.5607414,-85.5035629,1
+4621,27536,Henderson,NC,Vance County,"Raleigh-Durham (Fayetteville), NC",36.33557791,-78.43805124,1
+4628,2919,Johnston,RI,Providence County,"Providence-New Bedford, RI-MA",41.8151054,-71.4961319,1
+4633,35904,Gadsden,AL,Etowah County,"Birmingham (Anniston and Tuscaloosa), AL",33.99777604,-86.08929858,1
+4637,24018,Roanoke,VA,Roanoke County,"Roanoke-Lynchburg, VA",37.2298203,-80.006012,1
+4650,17325,Gettysburg,PA,Adams County,"Harrisburg-Lancaster-Lebanon-York, PA",39.84379191,-77.20070146,1
+4652,30529,Commerce,GA,Jackson County,"Atlanta, GA",34.2565002,-83.4657898,1
+4656,37821,Newport,TN,Cocke County,"Knoxville, TN",35.94736663,-83.20470185,1
+4658,63801,Sikeston,MO,Scott County,"Paducah-Cape Girardeau-Harrisburg, KY-MO-IL",36.89304917,-89.53436959,1
+4667,20186,Warrenton,VA,Fauquier County,"Washington, DC (Hagerstown, MD)",38.7275912,-77.79216979,1
+2341,80435,Dillon,CO,Summit County,"Denver, CO",39.62950689,-106.0560228,1
+4678,28625,Statesville,NC,Iredell County,"Charlotte, NC",35.81391765,-80.87604824,1
+4680,32025,Lake City,FL,Columbia County,"Jacksonville, FL",30.1781502,-82.6847305,1
+4685,41076,Newport,KY,Campbell County,"Cincinnati, OH",38.99976127,-84.42021224,1
+4687,6010,Bristol,CT,Hartford County,"Hartford & New Haven, CT",41.6991081,-72.8951569,1
+4691,45040,Mason,OH,Warren County,"Cincinnati, OH",39.35661253,-84.2596263,1
+4700,27288,Eden,NC,Rockingham County,"Greensboro-High Point-Winston Salem, NC",36.4889949,-79.73884669,1
+4701,17751,Mill Hall,PA,Clinton County,"Wilkes Barre-Scranton-Hazleton, PA",41.1153412,-77.4801025,1
+4710,17111,Harrisburg,PA,Dauphin County,"Harrisburg-Lancaster-Lebanon-York, PA",40.252974,-76.817778,1
+4714,12010,Amsterdam,NY,Montgomery County,"Albany-Schenectady-Troy, NY",42.965889,-74.1865768,1
+4722,28504,Kinston,NC,Lenoir County,"Greenville-New Bern-Washington, NC",35.2643585,-77.640152,1
+2373,32966,Vero Beach,FL,Indian River County,"West Palm Beach-Ft. Pierce, FL",27.63560911,-80.44715052,1
+4724,43123,Grove City,OH,Franklin County,"Columbus, OH",39.87913424,-83.0518819,1
+4734,70461,Slidell,LA,St. Tammany Parish,"New Orleans, LA",30.28408292,-89.74803876,1
+4740,7840,Hackettstown,NJ,Warren County,"New York, NY",40.82081988,-74.83706013,1
+4991,29483,Summerville,SC,Dorchester County,"Charleston, SC",33.0373192,-80.1545029,2
+4746,29420,North Charleston,SC,Dorchester County,"Charleston, SC",32.9350319,-80.0495987,2
+4762,27529,Garner,NC,Wake County,"Raleigh-Durham (Fayetteville), NC",35.60930492,-78.56257046,1
+4786,30540,Ellijay,GA,Gilmer County,"Atlanta, GA",34.6574707,-84.4912109,1
+4789,29680,Simpsonville,SC,Greenville County,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",34.7173882,-82.2547836,1
+4801,31501,Waycross,GA,Ware County,"Jacksonville, FL",31.1982594,-82.3241501,1
+4802,45373,Troy,OH,Miami County,"Dayton, OH",40.05380566,-84.23668494,1
+5006,8701,Lakewood,NJ,Ocean County,"New York, NY",40.05571556,-74.16465277,2
+4805,8755,Toms River,NJ,Ocean County,"New York, NY",39.98260483,-74.255338,2
+4902,35007,Alabaster,AL,Shelby County,"Birmingham (Anniston and Tuscaloosa), AL",33.23734427,-86.80257924,3
+4563,35124,Pelham,AL,Shelby County,"Birmingham (Anniston and Tuscaloosa), AL",33.335977,-86.78263219,3
+2615,35244,Birmingham,AL,Jefferson County,"Birmingham (Anniston and Tuscaloosa), AL",33.3783414,-86.80820447,3
+4816,39540,Diberville,MS,Harrison County,"Biloxi-Gulfport, MS",30.4581299,-88.8979034,1
+4844,18507,Moosic,PA,Lackawanna County,"Wilkes Barre-Scranton-Hazleton, PA",41.36306051,-75.68085588,1
+4845,30534,Dawsonville,GA,Dawson County,"Atlanta, GA",34.35883753,-84.04509914,1
+4848,21017,Belcamp,MD,Harford County,"Baltimore, MD",39.48205805,-76.24843016,1
+4850,27030,Mount Airy,NC,Surry County,"Greensboro-High Point-Winston Salem, NC",36.4760895,-80.618248,1
+4851,28697,Wilkesboro,NC,Wilkes County,"Greensboro-High Point-Winston Salem, NC",36.14963854,-81.190928,1
+4854,42104,Bowling Green,KY,Warren County,"Bowling Green, KY",36.94457591,-86.42339277,1
+4856,17349,New Freedom,PA,York County,"Harrisburg-Lancaster-Lebanon-York, PA",39.7733383,-76.6657486,1
+4859,37303,Athens,TN,McMinn County,"Chattanooga, TN",35.4657211,-84.6459198,1
+4882,22980,Waynesboro,VA,Waynesboro city,"Harrisonburg, VA",38.0647507,-78.9349594,1
+4381,30067,Marietta,GA,Cobb County,"Atlanta, GA",33.9232292,-84.4813309,3
+2629,30080,Smyrna,GA,Cobb County,"Atlanta, GA",33.87627108,-84.53131783,3
+3606,30122,Lithia Springs,GA,Douglas County,"Atlanta, GA",33.78835633,-84.61947481,3
+4883,6385,Waterford,CT,New London County,"Hartford & New Haven, CT",41.3798409,-72.1496811,1
+4905,23901,Farmville,VA,Prince Edward County,"Richmond-Petersburg, VA",37.2769495,-78.39952473,1
+4907,28732,Fletcher,NC,Henderson County,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",35.4426918,-82.5337219,1
+4912,35022,Bessemer,AL,Jefferson County,"Birmingham (Anniston and Tuscaloosa), AL",33.3638916,-86.9999924,1
+4918,17815,Bloomsburg,PA,Columbia County,"Wilkes Barre-Scranton-Hazleton, PA",41.01634257,-76.49176369,1
+4929,37343,Hixson,TN,Hamilton County,"Chattanooga, TN",35.14798077,-85.24966065,1
+4938,21704,Frederick,MD,Frederick County,"Washington, DC (Hagerstown, MD)",39.3937492,-77.4114685,1
+4939,2780,Taunton,MA,Bristol County,"Providence-New Bedford, RI-MA",41.9595935,-71.11956754,1
+5260,20110,Manassas,VA,Manassas city,"Washington, DC (Hagerstown, MD)",38.75203803,-77.45007158,2
+4946,22192,Woodbridge,VA,Prince William County,"Washington, DC (Hagerstown, MD)",38.6776619,-77.3500671,2
+4947,27012,Clemmons,NC,Forsyth County,"Greensboro-High Point-Winston Salem, NC",36.0326691,-80.3851166,1
+2673,30013,Conyers,GA,Rockdale County,"Atlanta, GA",33.64506471,-84.01380289,2
+4548,30038,Lithonia,GA,DeKalb County,"Atlanta, GA",33.69993272,-84.17217218,2
+4949,8054,Mount Laurel,NJ,Burlington County,"Philadelphia, PA",39.9692307,-74.9002457,1
+4953,27360,Thomasville,NC,Davidson County,"Greensboro-High Point-Winston Salem, NC",35.8625908,-80.0728836,1
+4954,37849,Powell,TN,Knox County,"Knoxville, TN",36.0499992,-83.9947891,1
+4956,37167,Smyrna,TN,Rutherford County,"Nashville, TN",35.9722404,-86.5720901,1
+4957,42701,Elizabethtown,KY,Hardin County,"Louisville, KY",37.71052772,-85.83266134,1
+4958,45414,Dayton,OH,Montgomery County,"Dayton, OH",39.84164069,-84.19267488,1
+4966,10940,Middletown,NY,Orange County,"New York, NY",41.45267578,-74.38188044,1
+4969,6473,North Haven,CT,New Haven County,"Hartford & New Haven, CT",41.35355784,-72.87183508,1
+4974,23434,Suffolk,VA,Suffolk city,"Norfolk-Portsmouth-Newport News, VA",36.77169469,-76.58459444,1
+4979,36527,Spanish Fort,AL,Baldwin County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.66821054,-87.85176505,1
+2682,21801,Salisbury,MD,Wicomico County,"Salisbury, MD",38.39720148,-75.566443,2
+5007,21801,Salisbury,MD,Wicomico County,"Salisbury, MD",38.3309349,-75.61155032,2
+4980,23061,Gloucester,VA,Gloucester County,"Norfolk-Portsmouth-Newport News, VA",37.39810064,-76.52597861,1
+4993,32548,Fort Walton Beach,FL,Okaloosa County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.4291897,-86.6383514,1
+4996,36117,Montgomery,AL,Montgomery County,"Montgomery-Selma, AL",32.35922249,-86.16899563,1
+5002,70560,New Iberia,LA,Iberia Parish,"Lafayette, LA",29.9853845,-91.85427218,1
+5010,35613,Athens,AL,Limestone County,"Huntsville-Decatur (Florence), AL",34.78506131,-86.94187007,1
+5015,21851,Pocomoke City,MD,Worcester County,"Salisbury, MD",38.07558369,-75.55811695,1
+5026,29209,Columbia,SC,Richland County,"Columbia, SC",33.96366453,-80.94203286,1
+5028,44406,Canfield,OH,Mahoning County,"Youngstown, OH",41.0242386,-80.7339325,1
+5045,35010,Alexander City,AL,Tallapoosa County,"Montgomery-Selma, AL",32.92379892,-85.95970354,1
+5048,26105,Vienna,WV,Wood County,"Parkersburg, WV",39.30209826,-81.54923599,1
+4815,30344,Atlanta,GA,Fulton County,"Atlanta, GA",33.6568184,-84.5007629,3
+2686,30337,Atlanta,GA,Fulton County,"Atlanta, GA",33.626151,-84.45308254,3
+4081,30344,Atlanta,GA,Fulton County,"Atlanta, GA",33.65876275,-84.42959908,3
+5049,1605,Worcester,MA,Worcester County,"Boston (Manchester), MA-NH",42.29462721,-71.77377104,1
+5096,22801,Harrisonburg,VA,Harrisonburg city,"Harrisonburg, VA",38.434467,-78.849934,1
+5112,37725,Dandridge,TN,Jefferson County,"Knoxville, TN",36.03788804,-83.44508842,1
+5130,27909,Elizabeth City,NC,Pasquotank County,"Norfolk-Portsmouth-Newport News, VA",36.29473951,-76.24788968,1
+5139,13057,East Syracuse,NY,Onondaga County,"Syracuse, NY",43.09215531,-76.08652972,1
+5163,30701,Calhoun,GA,Gordon County,"Atlanta, GA",34.47218545,-84.92215729,1
+5169,30132,Dallas,GA,Paulding County,"Atlanta, GA",33.9090614,-84.8206177,1
+5177,37160,Shelbyville,TN,Bedford County,"Nashville, TN",35.5119209,-86.4566193,1
+5189,30680,Winder,GA,Barrow County,"Atlanta, GA",33.99058233,-83.72434969,1
+5202,75503,Texarkana,TX,Bowie County,"Shreveport, LA",33.4538193,-94.0980606,1
+2114,33609,Tampa,FL,Hillsborough County,"Tampa-St.Petersburg (Sarasota), FL",27.94581858,-82.50533272,1
+4229,7470,Wayne,NJ,Passaic County,"New York, NY",40.8884639,-74.26020312,2
+2697,7652,Paramus,NJ,Bergen County,"New York, NY",40.91622949,-74.07552617,2
+5212,28560,New Bern,NC,Craven County,"Greenville-New Bern-Washington, NC",35.0811996,-77.0302734,1
+5216,19464,Pottstown,PA,Montgomery County,"Philadelphia, PA",40.2374683,-75.57212635,1
+5222,27302,Mebane,NC,Alamance County,"Greensboro-High Point-Winston Salem, NC",36.0670204,-79.2990494,1
+5244,13601,Watertown,NY,Jefferson County,"Watertown, NY",43.97653724,-75.94707065,1
+5255,24073,Christiansburg,VA,Montgomery County,"Roanoke-Lynchburg, VA",37.13676996,-80.36146492,1
+5275,44060,Mentor,OH,Lake County,"Cleveland-Akron (Canton), OH",41.71492,-81.2987976,1
+5286,24523,Bedford,VA,Bedford County,"Roanoke-Lynchburg, VA",37.32610852,-79.50302672,1
+5302,24901,Lewisburg,WV,Greenbrier County,"Bluefield-Beckley-Oak Hill, WV",37.81497656,-80.42867385,1
+5309,45459,Dayton,OH,Montgomery County,"Dayton, OH",39.65815609,-84.15804116,1
+5312,20152,Chantilly,VA,Loudoun County,"Washington, DC (Hagerstown, MD)",38.92520819,-77.51907551,1
+4272,32225,Jacksonville,FL,Duval County,"Jacksonville, FL",30.33909131,-81.54328194,3
+2702,32256,Jacksonville,FL,Duval County,"Jacksonville, FL",30.18364025,-81.55376812,3
+4625,32224,Jacksonville,FL,Duval County,"Jacksonville, FL",30.2529793,-81.4656525,3
+5319,44720,North Canton,OH,Stark County,"Cleveland-Akron (Canton), OH",40.8601685,-81.4327698,1
+5356,53224,Milwaukee,WI,Milwaukee County,"Milwaukee, WI",43.1489182,-88.0459366,1
+5411,85295,Gilbert,AZ,Maricopa County,"Phoenix (Prescott), AZ",33.3037796,-111.7432938,1
+5418,85323,Avondale,AZ,Maricopa County,"Phoenix (Prescott), AZ",33.45781508,-112.3061231,1
+5422,85281,Tempe,AZ,Maricopa County,"Phoenix (Prescott), AZ",33.432697,-111.906653,1
+5537,33884,Winter Haven,FL,Polk County,"Tampa-St.Petersburg (Sarasota), FL",27.9898891,-81.6891022,1
+7154,33914,Cape Coral,FL,Lee County,"Ft. Myers-Naples, FL",26.60513962,-81.97640005,3
+7179,33908,Fort Myers,FL,Lee County,"Ft. Myers-Naples, FL",26.50910411,-81.90565865,3
+5538,33909,Cape Coral,FL,Lee County,"Ft. Myers-Naples, FL",26.67192535,-81.93357497,3
+5539,34453,Inverness,FL,Citrus County,"Tampa-St.Petersburg (Sarasota), FL",28.8560791,-82.3971176,1
+5543,33928,Estero,FL,Lee County,"Ft. Myers-Naples, FL",26.43108763,-81.78549134,1
+6173,35803,Huntsville,AL,Madison County,"Huntsville-Decatur (Florence), AL",34.61766244,-86.56759472,1
+3185,27713,Durham,NC,Durham County,"Raleigh-Durham (Fayetteville), NC",35.91138788,-78.93854959,2
+2760,27701,Durham,NC,Durham County,"Raleigh-Durham (Fayetteville), NC",36.0195198,-78.9094162,2
+7043,49735,Gaylord,MI,Otsego County,"Traverse City-Cadillac, MI",45.02291841,-84.68757361,1
+7044,49601,Cadillac,MI,Wexford County,"Traverse City-Cadillac, MI",44.28183595,-85.40224431,1
+7045,49686,Traverse City,MI,Grand Traverse County,"Traverse City-Cadillac, MI",44.74506,-85.5403137,1
+7046,48642,Midland,MI,Midland County,"Flint-Saginaw-Bay City, MI",43.65894342,-84.24384306,1
+7075,48059,Fort Gratiot,MI,St. Clair County,"Detroit, MI",43.0335693,-82.4557724,1
+7084,48858,Mount Pleasant,MI,Isabella County,"Flint-Saginaw-Bay City, MI",43.61227108,-84.76432175,1
+7087,48348,Clarkston,MI,Oakland County,"Detroit, MI",42.73882466,-83.37923914,1
+7089,48051,New Baltimore,MI,Macomb County,"Detroit, MI",42.67669407,-82.83215939,1
+7114,4901,Waterville,ME,Kennebec County,"Portland-Auburn, ME",44.57041634,-69.64379721,1
+7117,32837,Orlando,FL,Orange County,"Orlando-Daytona Beach-Melbourne, FL",28.37470422,-81.40414708,1
+4174,19153,Philadelphia,PA,Philadelphia County,"Philadelphia, PA",39.8875613,-75.24707912,4
+2764,19064,Springfield,PA,Delaware County,"Philadelphia, PA",39.91467105,-75.35173813,4
+4718,19103,Philadelphia,PA,Philadelphia County,"Philadelphia, PA",39.95165626,-75.16856198,4
+4842,19043,Holmes,PA,Delaware County,"Philadelphia, PA",39.89965374,-75.30390091,4
+7121,32958,Sebastian,FL,Indian River County,"West Palm Beach-Ft. Pierce, FL",27.84230434,-80.48776777,1
+7123,34788,Leesburg,FL,Lake County,"Orlando-Daytona Beach-Melbourne, FL",28.8256493,-81.797287,1
+7124,33411,West Palm Beach,FL,Palm Beach County,"West Palm Beach-Ft. Pierce, FL",26.7079391,-80.2017593,1
+7129,34677,Oldsmar,FL,Pinellas County,"Tampa-St.Petersburg (Sarasota), FL",28.0512905,-82.698349,1
+7142,89032,North Las Vegas,NV,Clark County,"Las Vegas, NV",36.2388802,-115.154007,1
+7147,34654,New Port Richey,FL,Pasco County,"Tampa-St.Petersburg (Sarasota), FL",28.2799206,-82.6740799,1
+7149,34222,Ellenton,FL,Manatee County,"Tampa-St.Petersburg (Sarasota), FL",27.5316391,-82.5046005,1
+7155,11729,Deer Park,NY,Suffolk County,"New York, NY",40.7611732,-73.3128128,1
+7156,4769,Presque Isle,ME,Aroostook County,"Presque Isle, ME",46.69906439,-68.00497868,1
+7157,34201,Bradenton,FL,Manatee County,"Tampa-St.Petersburg (Sarasota), FL",27.3895687,-82.45621222,1
+3126,20770,Greenbelt,MD,Prince George's County,"Washington, DC (Hagerstown, MD)",38.99075493,-76.85455286,3
+4730,20774,Upper Marlboro,MD,Prince George's County,"Washington, DC (Hagerstown, MD)",38.9127217,-76.83985208,3
+2765,20716,Bowie,MD,Prince George's County,"Washington, DC (Hagerstown, MD)",38.9344101,-76.7195663,3
+7160,33710,Saint Petersburg,FL,Pinellas County,"Tampa-St.Petersburg (Sarasota), FL",27.79277634,-82.73155417,1
+7162,34613,Brooksville,FL,Hernando County,"Tampa-St.Petersburg (Sarasota), FL",28.5342808,-82.5102615,1
+7163,32159,Lady Lake,FL,Lake County,"Orlando-Daytona Beach-Melbourne, FL",28.9417057,-81.9489212,1
+7165,33870,Sebring,FL,Highlands County,"Tampa-St.Petersburg (Sarasota), FL",27.51511,-81.4934235,1
+7166,33594,Valrico,FL,Hillsborough County,"Tampa-St.Petersburg (Sarasota), FL",27.9380856,-82.2577209,2
+7210,33578,Riverview,FL,Hillsborough County,"Tampa-St.Petersburg (Sarasota), FL",27.85662577,-82.33033247,2
+7178,33541,Zephyrhills,FL,Pasco County,"Tampa-St.Petersburg (Sarasota), FL",28.27210741,-82.1888009,1
+7182,32817,Orlando,FL,Orange County,"Orlando-Daytona Beach-Melbourne, FL",28.5981503,-81.2222824,1
+7191,4092,Westbrook,ME,Cumberland County,"Portland-Auburn, ME",43.67865568,-70.3295152,1
+7226,80249,Denver,CO,Denver County,"Denver, CO",39.81993496,-104.7724361,1
+7242,51501,Council Bluffs,IA,Pottawattamie County,"Omaha, NE",41.24030871,-95.89337138,2
+7234,68123,Bellevue,NE,Sarpy County,"Omaha, NE",41.1595993,-95.9407578,2
+5214,28390,Spring Lake,NC,Harnett County,"Raleigh-Durham (Fayetteville), NC",35.1650314,-78.9715576,4
+4654,28304,Fayetteville,NC,Cumberland County,"Raleigh-Durham (Fayetteville), NC",35.0276794,-78.9289474,4
+2769,28314,Fayetteville,NC,Cumberland County,"Raleigh-Durham (Fayetteville), NC",35.073658,-78.964775,4
+4997,28312,Fayetteville,NC,Cumberland County,"Raleigh-Durham (Fayetteville), NC",35.00782678,-78.82670792,4
+7244,68504,Lincoln,NE,Lancaster County,"Lincoln & Hastings-Kearny, NE",40.8646507,-96.6813507,1
+7245,69101,North Platte,NE,Lincoln County,"North Platte, NE",41.11359493,-100.7656973,1
+7248,68847,Kearney,NE,Buffalo County,"Lincoln & Hastings-Kearny, NE",40.67207928,-99.08407579,1
+7249,68803,Grand Island,NE,Hall County,"Lincoln & Hastings-Kearny, NE",40.9312897,-98.3825989,1
+7281,4412,Brewer,ME,Penobscot County,"Bangor, ME",44.776371,-68.7338409,1
+7284,4086,Topsham,ME,Sagadahoc County,"Portland-Auburn, ME",43.9376004,-69.97991449,1
+7290,4210,Auburn,ME,Androscoggin County,"Portland-Auburn, ME",44.1190414,-70.2325974,1
+7291,4330,Augusta,ME,Kennebec County,"Portland-Auburn, ME",44.34862817,-69.78734642,1
+7346,46805,Fort Wayne,IN,Allen County,"Ft. Wayne, IN",41.117023,-85.12632,1
+7350,49014,Battle Creek,MI,Calhoun County,"Grand Rapids-Kalamazoo-Battle Creek, MI",42.26144289,-85.17733961,1
+4434,28217,Charlotte,NC,Mecklenburg County,"Charlotte, NC",35.13873758,-80.90830381,3
+2815,28227,Charlotte,NC,Mecklenburg County,"Charlotte, NC",35.1618881,-80.7377777,3
+4432,28277,Charlotte,NC,Mecklenburg County,"Charlotte, NC",35.0709496,-80.8431091,3
+7355,48864,Okemos,MI,Ingham County,"Lansing, MI",42.7241057,-84.42001227,1
+7359,55076,Inver Grove Heights,MN,Dakota County,"Minneapolis-St. Paul, MN",44.81799213,-93.04413151,1
+7368,46582,Warsaw,IN,Kosciusko County,"South Bend-Elkhart, IN",41.23754712,-85.81231381,1
+7377,46703,Angola,IN,Steuben County,"Ft. Wayne, IN",41.6630287,-84.998909,1
+7432,34711,Clermont,FL,Lake County,"Orlando-Daytona Beach-Melbourne, FL",28.5472603,-81.7049026,1
+7456,63385,Wentzville,MO,St. Charles County,"St. Louis, MO",38.81245374,-90.8774558,1
+7458,63376,Saint Peters,MO,St. Charles County,"St. Louis, MO",38.79776798,-90.62021283,1
+7461,63028,Festus,MO,Jefferson County,"St. Louis, MO",38.2117615,-90.4071121,1
+7467,62234,Collinsville,IL,Madison County,"St. Louis, MO",38.6842308,-90.0100174,2
+7464,62208,Fairview Heights,IL,St. Clair County,"St. Louis, MO",38.5947609,-89.9851456,2
+7466,63010,Arnold,MO,Jefferson County,"St. Louis, MO",38.41567122,-90.39105934,1
+2837,20176,Leesburg,VA,Loudoun County,"Washington, DC (Hagerstown, MD)",39.1132485,-77.53634295,1
+7470,63088,Valley Park,MO,St. Louis County,"St. Louis, MO",38.53706597,-90.49617107,1
+7478,14626,Rochester,NY,Monroe County,"Rochester, NY",43.2097588,-77.6956406,1
+7487,14750,Lakewood,NY,Chautauqua County,"Buffalo, NY",42.0984383,-79.3050995,1
+7494,13126,Oswego,NY,Oswego County,"Syracuse, NY",43.4608159,-76.48981221,1
+7630,48170,Plymouth,MI,Wayne County,"Detroit, MI",42.39173239,-83.51075421,3
+7632,48377,Novi,MI,Oakland County,"Detroit, MI",42.49658895,-83.43860394,3
+7574,48334,Farmington,MI,Oakland County,"Detroit, MI",42.4997597,-83.3575516,3
+7581,48312,Sterling Heights,MI,Macomb County,"Detroit, MI",42.554829,-83.026154,2
+7606,48066,Roseville,MI,Macomb County,"Detroit, MI",42.52425168,-82.91994253,2
+7594,48162,Monroe,MI,Monroe County,"Detroit, MI",41.9505806,-83.4003372,1
+7613,48176,Saline,MI,Washtenaw County,"Detroit, MI",42.1774597,-83.7581024,1
+7629,48188,Canton,MI,Wayne County,"Detroit, MI",42.2721405,-83.4887695,1
+7652,46902,Kokomo,IN,Howard County,"Indianapolis, IN",40.4440918,-86.1250229,1
+2839,2777,Swansea,MA,Bristol County,"Providence-New Bedford, RI-MA",41.75464198,-71.21722614,1
+7653,46013,Anderson,IN,Madison County,"Indianapolis, IN",40.0587502,-85.6520767,1
+7654,46256,Indianapolis,IN,Marion County,"Indianapolis, IN",39.9266586,-86.0248413,1
+7670,46124,Edinburgh,IN,Johnson County,"Indianapolis, IN",39.3113289,-85.963913,1
+7671,46227,Indianapolis,IN,Marion County,"Indianapolis, IN",39.6511993,-86.1386566,1
+7672,47304,Muncie,IN,Delaware County,"Indianapolis, IN",40.2185783,-85.4085617,1
+7673,47802,Terre Haute,IN,Vigo County,"Terre Haute, IN",39.4259033,-87.4162064,1
+7676,46268,Indianapolis,IN,Marion County,"Indianapolis, IN",39.9192489,-86.22592827,1
+7685,64012,Belton,MO,Cass County,"Kansas City, MO-KS",38.8141899,-94.5142288,1
+7721,33325,Fort Lauderdale,FL,Broward County,"Miami-Ft. Lauderdale, FL",26.1113396,-80.3032074,1
+7719,32137,Palm Coast,FL,Flagler County,"Orlando-Daytona Beach-Melbourne, FL",29.5541897,-81.2250671,1
+2843,6451,Meriden,CT,New Haven County,"Hartford & New Haven, CT",41.55046666,-72.80621596,2
+2842,6416,Cromwell,CT,Middlesex County,"Hartford & New Haven, CT",41.6040753,-72.67657573,2
+7734,33014,Hialeah,FL,Miami-Dade County,"Miami-Ft. Lauderdale, FL",25.9128799,-80.3088989,1
+7743,62056,Litchfield,IL,Montgomery County,"St. Louis, MO",39.17707849,-89.67537369,1
+7768,40324,Georgetown,KY,Scott County,"Lexington, KY",38.2229309,-84.538887,1
+7883,65203,Columbia,MO,Boone County,"Columbia-Jefferson City, MO",38.9648285,-92.3707123,1
+7884,65109,Jefferson City,MO,Cole County,"Columbia-Jefferson City, MO",38.5818214,-92.2103119,1
+7885,65804,Springfield,MO,Greene County,"Springfield, MO",37.16251931,-93.26420152,2
+7888,65803,Springfield,MO,Greene County,"Springfield, MO",37.2463799,-93.2615967,2
+7886,64804,Joplin,MO,Jasper County,"Joplin-Pittsburg, MO-KS",37.0541573,-94.4781876,1
+7887,65616,Branson,MO,Taney County,"Springfield, MO",36.637764,-93.2825394,1
+7890,65584,Saint Robert,MO,Pulaski County,"Springfield, MO",37.8242912,-92.1469727,1
+7895,63501,Kirksville,MO,Adair County,"Ottumwa-Kirksville, IA-MO",40.21856549,-92.58218278,1
+2115,33803,Lakeland,FL,Polk County,"Tampa-St.Petersburg (Sarasota), FL",27.9972095,-81.9576797,2
+2184,33830,Bartow,FL,Polk County,"Tampa-St.Petersburg (Sarasota), FL",27.91160208,-81.84312256,2
+4639,23505,Norfolk,VA,Norfolk city,"Norfolk-Portsmouth-Newport News, VA",36.9150581,-76.2549286,7
+2849,23462,Virginia Beach,VA,Virginia Beach city,"Norfolk-Portsmouth-Newport News, VA",36.8440819,-76.1305084,7
+4156,23502,Norfolk,VA,Norfolk city,"Norfolk-Portsmouth-Newport News, VA",36.8631592,-76.2110977,7
+2906,23320,Chesapeake,VA,Chesapeake city,"Norfolk-Portsmouth-Newport News, VA",36.77555795,-76.23053885,7
+4906,23701,Portsmouth,VA,Portsmouth city,"Norfolk-Portsmouth-Newport News, VA",36.81116934,-76.35870075,7
+4987,23505,Norfolk,VA,Norfolk city,"Norfolk-Portsmouth-Newport News, VA",36.9288406,-76.3183975,7
+3114,23456,Virginia Beach,VA,Virginia Beach city,"Norfolk-Portsmouth-Newport News, VA",36.7889404,-76.1111374,7
+7900,65775,West Plains,MO,Howell County,"Springfield, MO",36.71763608,-91.87362118,1
+2851,16565,Erie,PA,Erie County,"Erie, PA",42.07045382,-80.09794382,1
+2853,31525,Brunswick,GA,Glynn County,"Jacksonville, FL",31.21742208,-81.488991,1
+4420,29501,Florence,SC,Florence County,"Myrtle Beach-Florence, SC",34.22579338,-79.79629202,3
+2880,29501,Florence,SC,Florence County,"Myrtle Beach-Florence, SC",34.19128821,-79.83407494,3
+4373,29505,Florence,SC,Florence County,"Myrtle Beach-Florence, SC",34.16154811,-79.75613657,3
+2890,32605,Gainesville,FL,Alachua County,"Gainesville, FL",29.6579352,-82.41071108,1
+2893,30188,Woodstock,GA,Cherokee County,"Atlanta, GA",34.0854301,-84.53125,1
+2929,8330,Mays Landing,NJ,Atlantic County,"Philadelphia, PA",39.4535147,-74.64375979,1
+2932,7728,Freehold,NJ,Monmouth County,"New York, NY",40.25329727,-74.3011043,4
+4755,7753,Neptune,NJ,Monmouth County,"New York, NY",40.22369,-74.0863571,4
+4783,7731,Howell,NJ,Monmouth County,"New York, NY",40.1285749,-74.22257855,4
+3636,7724,Eatontown,NJ,Monmouth County,"New York, NY",40.28901896,-74.05541157,4
+2946,19610,Reading,PA,Berks County,"Philadelphia, PA",40.34006436,-75.97102073,1
+2954,8096,Woodbury,NJ,Gloucester County,"Philadelphia, PA",39.83044702,-75.09756075,1
+2117,34238,Sarasota,FL,Sarasota County,"Tampa-St.Petersburg (Sarasota), FL",27.23425028,-82.49271462,1
+3969,21046,Columbia,MD,Howard County,"Baltimore, MD",39.1803157,-76.8226299,3
+2960,21061,Glen Burnie,MD,Anne Arundel County,"Baltimore, MD",39.13816881,-76.60682269,3
+4726,21090,Linthicum Heights,MD,Anne Arundel County,"Baltimore, MD",39.207859,-76.678772,3
+4971,12065,Clifton Park,NY,Saratoga County,"Albany-Schenectady-Troy, NY",42.86261829,-73.78455322,3
+2962,12203,Albany,NY,Albany County,"Albany-Schenectady-Troy, NY",42.68917206,-73.85048196,3
+4869,12110,Latham,NY,Albany County,"Albany-Schenectady-Troy, NY",42.7553101,-73.7722092,3
+3019,19971,Rehoboth Beach,DE,Sussex County,"Salisbury, MD",38.7211914,-75.1188583,1
+3366,22401,Fredericksburg,VA,Fredericksburg city,"Washington, DC (Hagerstown, MD)",38.29659156,-77.51187251,2
+3023,22408,Fredericksburg,VA,Spotsylvania County,"Washington, DC (Hagerstown, MD)",38.24949155,-77.49777257,2
+3911,23060,Glen Allen,VA,Henrico County,"Richmond-Petersburg, VA",37.6435585,-77.5663223,3
+3042,23111,Mechanicsville,VA,Hanover County,"Richmond-Petersburg, VA",37.6118889,-77.3540115,3
+5064,23230,Richmond,VA,Henrico County,"Richmond-Petersburg, VA",37.5867615,-77.4990234,3
+3048,20678,Prince Frederick,MD,Calvert County,"Washington, DC (Hagerstown, MD)",38.5550117,-76.5969315,1
+3113,29150,Sumter,SC,Sumter County,"Columbia, SC",33.95376132,-80.37834421,1
+3136,36535,Foley,AL,Baldwin County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.3793335,-87.6834641,1
+3142,37042,Clarksville,TN,Montgomery County,"Nashville, TN",36.5872383,-87.4139862,2
+4636,37043,Clarksville,TN,Montgomery County,"Nashville, TN",36.5096207,-87.2734833,2
+3799,23112,Midlothian,VA,Chesterfield County,"Richmond-Petersburg, VA",37.4407001,-77.58869462,2
+3148,23235,Richmond,VA,Chesterfield County,"Richmond-Petersburg, VA",37.5074501,-77.6023636,2
+2131,32114,Daytona Beach,FL,Volusia County,"Orlando-Daytona Beach-Melbourne, FL",29.19277598,-81.06817312,2
+7119,32118,Daytona Beach,FL,Volusia County,"Orlando-Daytona Beach-Melbourne, FL",29.26303998,-81.02633052,2
+3149,38555,Crossville,TN,Cumberland County,"Knoxville, TN",35.978801,-85.037674,1
+3151,23834,Colonial Heights,VA,Colonial Heights city,"Richmond-Petersburg, VA",37.25641288,-77.39383895,2
+5295,23860,Hopewell,VA,Hopewell city,"Richmond-Petersburg, VA",37.2614403,-77.3252869,2
+3153,8865,Phillipsburg,NJ,Warren County,"New York, NY",40.67931443,-75.14849742,2
+4886,18020,Bethlehem,PA,Northampton County,"Philadelphia, PA",40.6520691,-75.2907104,2
+3162,23666,Hampton,VA,Hampton city,"Norfolk-Portsmouth-Newport News, VA",37.06048362,-76.42679707,2
+4189,23693,Yorktown,VA,York County,"Norfolk-Portsmouth-Newport News, VA",37.1172714,-76.4646072,2
+3170,36619,Mobile,AL,Mobile County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.59576047,-88.16177579,2
+4983,36608,Mobile,AL,Mobile County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.67636116,-88.1457552,2
+3175,27616,Raleigh,NC,Wake County,"Raleigh-Durham (Fayetteville), NC",35.8700409,-78.5820618,2
+5122,27610,Raleigh,NC,Wake County,"Raleigh-Durham (Fayetteville), NC",35.7989807,-78.5614014,2
+3180,28152,Shelby,NC,Cleveland County,"Charlotte, NC",35.2680092,-81.4842529,1
+3181,28054,Gastonia,NC,Gaston County,"Charlotte, NC",35.2630882,-81.1329193,1
+3182,27511,Cary,NC,Wake County,"Raleigh-Durham (Fayetteville), NC",35.76180254,-78.74215972,1
+3183,28602,Hickory,NC,Catawba County,"Charlotte, NC",35.70796022,-81.30748341,1
+2136,34474,Ocala,FL,Marion County,"Orlando-Daytona Beach-Melbourne, FL",29.15432768,-82.18059949,1
+3198,36571,Saraland,AL,Mobile County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.80265075,-88.10230079,1
+3201,36037,Greenville,AL,Butler County,"Montgomery-Selma, AL",31.85084973,-86.64248198,1
+3217,35661,Muscle Shoals,AL,Colbert County,"Huntsville-Decatur (Florence), AL",34.74652448,-87.66800413,1
+3218,35094,Leeds,AL,Jefferson County,"Birmingham (Anniston and Tuscaloosa), AL",33.56841231,-86.52018963,2
+3651,35235,Birmingham,AL,Jefferson County,"Birmingham (Anniston and Tuscaloosa), AL",33.6408119,-86.6238098,2
+3222,37055,Dickson,TN,Dickson County,"Nashville, TN",36.0232201,-87.3374786,1
+3223,35758,Madison,AL,Madison County,"Huntsville-Decatur (Florence), AL",34.7544212,-86.7422638,1
+3229,19462,Plymouth Meeting,PA,Montgomery County,"Philadelphia, PA",40.10075,-75.2926788,1
+3230,15701,Indiana,PA,Indiana County,"Pittsburgh, PA",40.6038895,-79.1866531,1
+3231,17201,Chambersburg,PA,Franklin County,"Harrisburg-Lancaster-Lebanon-York, PA",39.9297638,-77.6379242,1
+3232,17901,Pottsville,PA,Schuylkill County,"Wilkes Barre-Scranton-Hazleton, PA",40.69808112,-76.18773984,1
+2140,32952,Merritt Island,FL,Brevard County,"Orlando-Daytona Beach-Melbourne, FL",28.35492998,-80.68572826,2
+7171,32955,Rockledge,FL,Brevard County,"Orlando-Daytona Beach-Melbourne, FL",28.2971001,-80.7417984,2
+3263,22601,Winchester,VA,Winchester city,"Washington, DC (Hagerstown, MD)",39.16613604,-78.16514128,1
+3271,31088,Warner Robins,GA,Houston County,"Macon, GA",32.5937347,-83.6299057,1
+3278,38134,Memphis,TN,Shelby County,"Memphis, TN",35.1699791,-89.867157,1
+3282,35501,Jasper,AL,Walker County,"Birmingham (Anniston and Tuscaloosa), AL",33.84979505,-87.27601967,1
+3290,18976,Warrington,PA,Bucks County,"Philadelphia, PA",40.21481327,-75.13987632,2
+4787,19446,Lansdale,PA,Montgomery County,"Philadelphia, PA",40.24701231,-75.24426111,2
+3367,32308,Tallahassee,FL,Leon County,"Tallahassee-Thomasville, FL-GA",30.47422206,-84.23492071,1
+3373,27534,Goldsboro,NC,Wayne County,"Raleigh-Durham (Fayetteville), NC",35.3886299,-77.9434967,1
+4858,29301,Spartanburg,SC,Spartanburg County,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",34.9321747,-81.9885559,2
+3376,29307,Spartanburg,SC,Spartanburg County,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",34.969429,-81.8886719,2
+3381,30240,LaGrange,GA,Troup County,"Atlanta, GA",33.04230656,-85.03022857,1
+3382,29640,Easley,SC,Pickens County,"Greenville-Spartanburg-Asheville-Anderson, SC-NC",34.8241692,-82.5778198,1
+7108,34986,Port Saint Lucie,FL,St. Lucie County,"West Palm Beach-Ft. Pierce, FL",27.31450765,-80.40749484,3
+2149,34957,Jensen Beach,FL,Martin County,"West Palm Beach-Ft. Pierce, FL",27.2422093,-80.27456511,3
+7122,34990,Palm City,FL,Martin County,"West Palm Beach-Ft. Pierce, FL",27.16489166,-80.30111665,3
+3385,29169,West Columbia,SC,Lexington County,"Columbia, SC",33.98207061,-81.10260922,5
+4481,29072,Lexington,SC,Lexington County,"Columbia, SC",33.9988785,-81.2181168,5
+3671,29212,Columbia,SC,Lexington County,"Columbia, SC",34.0755806,-81.1561279,5
+4439,29210,Columbia,SC,Richland County,"Columbia, SC",34.03091271,-81.0956415,5
+3613,29205,Columbia,SC,Richland County,"Columbia, SC",33.9900894,-80.9754715,5
+3415,31313,Hinesville,GA,Liberty County,"Savannah, GA",31.8363609,-81.5963898,1
+3433,20619,California,MD,St. Mary's County,"Washington, DC (Hagerstown, MD)",38.29947847,-76.51369759,1
+4370,35453,Cottondale,AL,Tuscaloosa County,"Birmingham (Anniston and Tuscaloosa), AL",33.17530741,-87.44816097,2
+3610,35406,Tuscaloosa,AL,Tuscaloosa County,"Birmingham (Anniston and Tuscaloosa), AL",33.2335677,-87.53912625,2
+3619,1040,Holyoke,MA,Hampden County,"Springfield-Holyoke, MA",42.16585134,-72.64207131,1
+3629,63701,Cape Girardeau,MO,Cape Girardeau County,"Paducah-Cape Girardeau-Harrisburg, KY-MO-IL",37.30141013,-89.57344352,1
+3634,36532,Fairhope,AL,Baldwin County,"Mobile-Pensacola (Ft. Walton Beach), AL-FL",30.52400741,-87.88580581,1
+3635,2703,Attleboro,MA,Bristol County,"Providence-New Bedford, RI-MA",41.9212112,-71.3585434,2
+4503,2093,Wrentham,MA,Norfolk County,"Boston (Manchester), MA-NH",42.03601742,-71.35211797,2
+3638,30022,Alpharetta,GA,Fulton County,"Atlanta, GA",34.0489616,-84.2880173,1
+3641,44870,Sandusky,OH,Erie County,"Cleveland-Akron (Canton), OH",41.41776418,-82.67030378,1
